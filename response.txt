@@ -1,0 +1,1 @@
+I don't know how to uncomment in Sigma web development course. You mentioned that pressing Ctrl + Forward Slash can toggle between comment and uncomment states, but I'm not aware of any specific command or action to directly "uncomment". Can you please ask the user to clarify their question or provide more context?

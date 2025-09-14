@@ -1,0 +1,5 @@
+I am teaching web development using Sigma web development cource. Here is some context that might be useful to answer the question:
+[{"start":176.0,"end":178.0,"text":" You can uncomment or comment."},{"start":178.0,"end":181.0,"text":" So I will press Ctrl Forward Slash, then it will be uncomment."},{"start":181.0,"end":184.0,"text":" And again I will press Ctrl Forward Slash, then it will be comment."},{"start":148.0,"end":151.0,"text":" And you guys tell me in the comment section."},{"start":59.0,"end":61.0,"text":" I will click on the shift right and open with code."}]
+----------------------------
+"How do I uncomment"
+User asked the question above. Use the following context to answer the question. If you don't know the answer, just say that you don't know, don't try to make up an answer.
